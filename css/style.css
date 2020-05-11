@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Questrial&display=swap');
+body {
+  background-color: #223196;
+  font-family: 'Questrial', sans-serif !important;
+}
+h1,
+h3 {
+  font-weight: bold !important;
+}
